@@ -1,4 +1,4 @@
-# **EMC**: **E**mbedding-based **M**atrix **C**orrection
+# **ECAI2023-EMC**: **E**mbedding-based **M**atrix **C**orrection
 The source code for the ECAI'2023 paper titled "**Highly-Efficient Robinson-Foulds Distance Estimation with Matrix Correction**".
 
 ## Introduction
